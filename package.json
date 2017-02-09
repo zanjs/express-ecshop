@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "express-session": "^1.15.0",
+    "fstream": "^1.0.10",
+    "mongoose": "^4.6.1",
+    "morgan": "~1.7.0",
+    "multer": "^1.2.1",
+    "mysql": "^2.11.1",
+    "nodemailer": "^2.6.4",
+    "redis": "^2.6.2",
+    "serve-favicon": "~2.3.0",
+    "session-file-store": "^0.2.1",
+    "socket.io": "^1.4.8",
+    "strftime": "^0.10.0",
+    "tar": "^2.2.1",
+    "xss": "^0.3.3",
+    "zengming": "^0.1.4"
+  }
+}
